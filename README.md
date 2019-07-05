@@ -1,1 +1,1 @@
-AWS CloudDeploy Practice with Github repo
+AWS CloudDeploy Practice with Github integration
